@@ -120,9 +120,9 @@
             // swap_BTN
             // 
             this.swap_BTN.Font = new System.Drawing.Font("MS Mincho", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.swap_BTN.Location = new System.Drawing.Point(200, 44);
+            this.swap_BTN.Location = new System.Drawing.Point(200, 37);
             this.swap_BTN.Name = "swap_BTN";
-            this.swap_BTN.Size = new System.Drawing.Size(28, 29);
+            this.swap_BTN.Size = new System.Drawing.Size(28, 34);
             this.swap_BTN.TabIndex = 7;
             this.swap_BTN.Text = "⇆";
             this.swap_BTN.TextAlign = System.Drawing.ContentAlignment.TopCenter;
